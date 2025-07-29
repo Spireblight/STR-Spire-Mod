@@ -1,3 +1,5 @@
+Repo is archived, see <https://github.com/Spireblight/slay-the-relics> instead
+
 # Slay the Relics
 
 <https://dashboard.twitch.tv/extensions/ebkycs9lir8pbic2r0b7wa6bg6n7ua-0.0.1>
